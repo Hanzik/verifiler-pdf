@@ -1,4 +1,4 @@
-# VerifilerOpenXML - Verifiler plugin
+# VerifilerPDF - Verifiler plugin
               
 [GitHub](https://github.com/Hanzik/verifiler-pdf) | [NuGet](https://www.nuget.org/packages/VerifilerPDF/)
 
